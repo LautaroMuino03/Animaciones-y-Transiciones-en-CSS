@@ -1,0 +1,25 @@
+.btn-modern {   
+padding: 10px 20px;
+border:none;
+border-radius: 5px;
+background-color: red;
+color: white;
+justify-content: center;
+align-items: center;
+font-family: 'Times New Roman', Times, serif;
+border-bottom: 3px solid rgb(209, 3, 3);
+cursor: pointer;
+transform: translateY(-5px);
+transition: 0.4s;
+box-shadow: 1px 1px rgb(189, 23, 23);
+}
+
+.btn-modern:hover{
+    background-color: rgb(212, 7, 7);
+    opacity: 0.70;
+    background: rgb(146, 17, 17);
+    color: black;
+}
+
+
+
